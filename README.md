@@ -28,3 +28,9 @@ False
 ```
 
 See the [`examples`](examples/) directory and the tests in `test_nearly.py` for more examples.
+
+## Installation
+
+```
+pip install git+https://github.com/larsks/python-nearly
+```
