@@ -79,7 +79,7 @@ False
 
 ```
 
-See the [`examples`](examples/) directory and the tests in `test_nearly.py` for more examples.
+See the [`examples`](examples/) directory and the [tests](tests/) for more examples.
 
 ## Installation
 
